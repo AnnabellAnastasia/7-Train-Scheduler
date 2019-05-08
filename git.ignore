@@ -1,0 +1,9 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyCd1gqmvlSckx3sP32ClYek-IX59XPeyA0",
+    authDomain: "train-scheduler-1593f.firebaseapp.com",
+    databaseURL: "https://train-scheduler-1593f.firebaseio.com",
+    projectId: "train-scheduler-1593f",
+    storageBucket: "train-scheduler-1593f.appspot.com",
+    messagingSenderId: "895027899293",
+    appId: "1:895027899293:web:13cb6d6594247ee2"
+  };
